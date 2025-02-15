@@ -1,0 +1,8 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "tarilingComma": "all",
+  "printWidth": 80,
+  "arrowParems": "always"
+}
